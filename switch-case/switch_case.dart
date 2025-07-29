@@ -1,5 +1,5 @@
 // // syntax
-// switch(variable/kodisi) {
+// switch(variable/kodisi yang dievaluasi) {
 //   case value1:
 //   // do something
 //   break;
